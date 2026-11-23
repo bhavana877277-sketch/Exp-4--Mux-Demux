@@ -86,6 +86,10 @@ The design was compiled and simulated using Synopsys VCS, and the functionality 
 ## Output
 
 
+<img width="1532" height="830" alt="image" src="https://github.com/user-attachments/assets/983208ae-5ace-4680-bc1a-8492ce4ef127" />
+
+
+
 ## Viva-Voce Questions
 
 •	What is a Multiplexer, and why is it called a 'data selector'?
